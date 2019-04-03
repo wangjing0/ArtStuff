@@ -1,3 +1,3 @@
 # ArtDesign
 
-random project on Art and design
+random projects on art and design
