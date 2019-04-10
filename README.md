@@ -19,17 +19,14 @@
   <img src="7685465882_9745e79e4b_o.jpg" width="500" >
 </p>
 <p align="center">
-  <img src="7641650922_603a7daa2a_o.png" width="500" >
+  <img src="7641650922_603a7daa2a_o.png" width="800" >
 </p>
 <p align="center">
-  <img src="7641846352_eb49bdf60d_o.jpg" width="700" >
+  <img src="7641650622_84a8582929_o.png" width="800" >
 </p>
 <p align="center">
-  <img src="7641650622_84a8582929_o.png" width="700" >
+  <img src="7641651140_30d8a13499_o.png" width="800" >
 </p>
 <p align="center">
-  <img src="7641651140_30d8a13499_o.png" width="700" >
-</p>
-<p align="center">
-  <img src="7641846352_eb49bdf60d_o.jpg" width="700" >
+  <img src="7641846352_eb49bdf60d_o.jpg" width="800" >
 </p>
