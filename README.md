@@ -12,7 +12,8 @@
 </p>
 
 <h2> Graphic design </h2>
-<p align="center">
+<p align="left">
+  <img src="https://media.springernature.com/w200/springer-static/cover-hires/journal/41593/21/1" width="200" >
   <img src="darkside.png" width="500" >
 </p>
 <p align="center">
