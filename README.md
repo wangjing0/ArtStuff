@@ -1,5 +1,5 @@
 # Random art and design projects
-<h2> Drawings </h2>
+<h2> Time elapse </h2>
 <p align="center">
 <img src="1_2.gif" width="600" >
 </p>
