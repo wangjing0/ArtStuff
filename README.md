@@ -1,4 +1,8 @@
-# ArtDesign: random projects on art and design
+# Random art and design projects
+<h2> Drawings </h2>
+<p align="center">
+<img src="1_2.gif" width="600" >
+</p>
 
 <h2> Drawings </h2>
 <p align="center">
