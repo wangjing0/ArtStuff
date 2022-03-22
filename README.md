@@ -18,9 +18,9 @@
 
   <img src="7641650922_603a7daa2a_o.png" width="200" >
 
-  <img src="7641650622_84a8582929_o.png" width="200" >
+  <img src="7641650622_84a8582929_o.png" width="500" >
 
-  <img src="7641651140_30d8a13499_o.png" width="200" >
+  <img src="7641651140_30d8a13499_o.png" width="500" >
 
   <img src="7641846352_eb49bdf60d_o.jpg" width="200" >
 </p>
