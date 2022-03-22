@@ -1,19 +1,14 @@
 # Random art and design projects
 <h2> Time elapse </h2>
 <p align="center">
-<img src="1_2.gif" width="200" >  <img src="tohui.bmp" width="200" >
+<img src="1_2.gif" width="500" > 
 </p>
 
 <h2> Drawings </h2>
 <p align="center">
-  <img src="tohui.bmp" width="200" >
+  <img src="tohui.bmp" hight="200" ><img src="qinghua.png" width="500" > <img src="6802022388_f77baba703_o.png" width="800" >
 </p>
-<p align="center">
-  <img src="qinghua.png" width="500" >
-</p>
-<p align="center">
-  <img src="6802022388_f77baba703_o.png" width="800" >
-</p>
+
 
 <h2> Graphic design,Book Cover & PosterCards </h2>
 <p align="center">
