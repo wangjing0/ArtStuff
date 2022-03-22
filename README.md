@@ -8,7 +8,7 @@
 
 <h2> Graphic design,Book Cover, Poster, &Post Cards </h2>
 <p align="center">
-  <img src="7685465882_9745e79e4b_o.jpg" width="400" >
+  <img src="7685465882_9745e79e4b_o.jpg" width="300" >
   <img src="https://media.springernature.com/w200/springer-static/cover-hires/journal/41593/21/1" width="300" >
   <img src="7641650922_603a7daa2a_o.png" width="500" >
 
