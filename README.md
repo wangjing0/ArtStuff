@@ -1,12 +1,12 @@
 # Random art and design projects
 <h2> Time elapse </h2>
 <p align="center">
-<img src="1_2.gif" width="600" >
+<img src="1_2.gif" width="200" >  <img src="tohui.bmp" width="200" >
 </p>
 
 <h2> Drawings </h2>
 <p align="center">
-  <img src="tohui.bmp" width="600" >
+  <img src="tohui.bmp" width="200" >
 </p>
 <p align="center">
   <img src="qinghua.png" width="500" >
