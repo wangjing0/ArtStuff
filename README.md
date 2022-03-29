@@ -1,7 +1,7 @@
 # Random art and design projects
 
 <div class="top-container">	
-	   <canvas data-processing-sources="./files/random_process.pde"></canvas>
+	   <canvas data-processing-sources="random_process.pde"></canvas>
 	 <div class="topright">  art with <a href="https://processing.org/tutorials/overview/" > Processing </a> </div>
 </div>
 
