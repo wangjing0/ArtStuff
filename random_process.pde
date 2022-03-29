@@ -31,7 +31,7 @@ class pathfinder {
 pathfinder[] paths;
 
 void setup() {
-  size(1400, 400);
+  size(1400, 300);
   background(100);  
   stroke(0,255,0, 50);
   smooth();
